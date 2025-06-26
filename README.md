@@ -8,11 +8,13 @@
 ---
 
 ### 🛠️ Projects Showcase
+🧠 Smart Summarizer (Python + Streamlit) – A text summarization tool that extracts key content from PDFs and URLs using NLTK, BeautifulSoup, and PyPDF2. Includes Firebase integration and a Streamlit-based web interface.
 
-- 🔍 **Smart Summarizer (NLP)** – Built an intelligent text summarizer using NLP techniques to extract meaningful content from large texts.
-- 🧭 **Tourist Place Recommendation System (Data Analysis)** – Developed a recommendation engine using content-based filtering and data analytics.
-- ✅ **Task Manager (MERN Stack)** – A full-stack application for personal task management with deadlines, priorities, tags, and filters.
-- 🍜 **CSS Recipe Finder** – A simple and elegant front-end project using HTML/CSS/JavaScript to search and display recipes.
+🧭 Tourist Place Recommendation System (Data Analytics + Web App) – A travel recommendation engine built using Python, Pandas, and Streamlit, enabling seasonal, budget, and rating-based filtering through an interactive UI.
+
+✅ Task Manager (MERN Stack) – A full-stack task management application with features like deadlines, priorities, tags, filters, and completion tracking.
+
+🍜 CSS Recipe Finder – A minimalistic front-end project using pure HTML, CSS, and JavaScript to search and display recipes.
 
 ---
 
