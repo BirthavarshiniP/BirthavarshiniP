@@ -3,18 +3,26 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BirthavarshiniP" alt="BirthavarshiniP" /></a> </p>
 
 <h3 align="left">Hi 👋, I'm Birthavarshini Periyasamy</h3>
-<p>A passionate developer and learner, with experience in NLP, Data Analysis, MERN Stack, and Front-End development.</p>
+<p>A passionate developer and learner, with experience in Python, Data Analytics, MERN Stack, and Front-End development.</p>
 
 ---
 
 ### 🛠️ Projects Showcase
-🧠 Smart Summarizer (Python + Streamlit) – A text summarization tool that extracts key content from PDFs and URLs using NLTK, BeautifulSoup, and PyPDF2. Includes Firebase integration and a Streamlit-based web interface.
 
-🧭 Tourist Place Recommendation System (Data Analytics + Web App) – A travel recommendation engine built using Python, Pandas, and Streamlit, enabling seasonal, budget, and rating-based filtering through an interactive UI.
+- 🧠 **Smart Summarizer (Python + Streamlit)**  
+  A text summarization web app that processes content from PDFs and web pages using `NLTK`, `BeautifulSoup`, and `PyPDF2`. It features a user-friendly interface built with `Streamlit` and uses `Firebase` for backend storage.
 
-✅ Task Manager (MERN Stack) – A full-stack task management application with features like deadlines, priorities, tags, filters, and completion tracking.
+- 🧭 **Tourist Place Recommendation System (Data Analytics + Web App)**  
+  An interactive travel recommendation system built using:
+  - `Python`, `Streamlit` (for web interface)
+  - `Pandas`, `NumPy`, `Scikit-learn`, and `Plotly` (for data filtering and visualization)  
+  It filters destinations based on season, budget, and rating.
 
-🍜 CSS Recipe Finder – A minimalistic front-end project using pure HTML, CSS, and JavaScript to search and display recipes.
+- ✅ **Task Manager (MERN Stack)**  
+  A full-stack productivity app developed using `MongoDB`, `Express.js`, `React.js`, and `Node.js`. Features include task categorization, deadlines, priorities, tags, and completion tracking.
+
+- 🍜 **CSS Recipe Finder**  
+  A minimal front-end recipe lookup tool built using `HTML`, `CSS`, and `JavaScript`.
 
 ---
 
@@ -26,10 +34,13 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="100" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+  <a href="https://plotly.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/59993532?s=200&v=4" alt="plotly" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
@@ -42,3 +53,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BirthavarshiniP&show_icons=true&locale=en" alt="BirthavarshiniP" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BirthavarshiniP&" alt="BirthavarshiniP" /></p>
+
+---
+
+
+
